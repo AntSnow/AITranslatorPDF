@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="33d3e475-714b-4450-92a5-3322be4ef20f" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ai_translator/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ai_translator/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ai_translator/app/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ai_translator/app/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ai_translator/app/pdf_widget.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ai_translator/app/translator_thread.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ai_translator/app/ui_base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ai_translator/book/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ai_translator/book/book.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ai_translator/book/content.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ai_translator/book/page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ai_translator/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ai_translator/model/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ai_translator/model/glm_model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ai_translator/model/model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ai_translator/model/openai_model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ai_translator/model/qwen_model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ai_translator/translator/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ai_translator/translator/exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ai_translator/translator/pdf_parser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ai_translator/translator/pdf_transtor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ai_translator/translator/writer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ai_translator/utils/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ai_translator/utils/argument_parser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ai_translator/utils/common.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ai_translator/utils/config_loader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ai_translator/utils/logger.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/simsun.ttc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jupyter/The_Old_Man_of_the_Sea.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jupyter/images/pdfplumber.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jupyter/pdf_image_test.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jupyter/pdfplumber.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jupyter/test.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/The_Old_Man_of_the_Sea.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/new_test.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/new_test_translated.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_001.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_001_translated.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_translated.pdf" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2TPYAbj7KTaFICEZc0vJXwsNKlx" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ai_translator" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Shell Script.app">
+    <configuration name="app" type="ShConfigurationType">
+      <option name="SCRIPT_TEXT" value="python3 ai_translator/app.py" />
+      <option name="INDEPENDENT_SCRIPT_PATH" value="true" />
+      <option name="SCRIPT_PATH" value="" />
+      <option name="SCRIPT_OPTIONS" value="" />
+      <option name="INDEPENDENT_SCRIPT_WORKING_DIRECTORY" value="true" />
+      <option name="SCRIPT_WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="INDEPENDENT_INTERPRETER_PATH" value="true" />
+      <option name="INTERPRETER_PATH" value="/bin/zsh" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="EXECUTE_IN_TERMINAL" value="true" />
+      <option name="EXECUTE_SCRIPT_FILE" value="false" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="run" type="ShConfigurationType">
+      <option name="SCRIPT_TEXT" value="python3 ai_translator/main.py --model_type=OpenAIModel --openai_api_key=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 --openai_model=gpt-3.5-turbo --file_format=PDF" />
+      <option name="INDEPENDENT_SCRIPT_PATH" value="true" />
+      <option name="SCRIPT_PATH" value="" />
+      <option name="SCRIPT_OPTIONS" value="" />
+      <option name="INDEPENDENT_SCRIPT_WORKING_DIRECTORY" value="true" />
+      <option name="SCRIPT_WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="INDEPENDENT_INTERPRETER_PATH" value="true" />
+      <option name="INTERPRETER_PATH" value="/bin/zsh" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="EXECUTE_IN_TERMINAL" value="true" />
+      <option name="EXECUTE_SCRIPT_FILE" value="false" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Shell Script.run" />
+      <item itemvalue="Shell Script.app" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="33d3e475-714b-4450-92a5-3322be4ef20f" name="更改" comment="" />
+      <created>1690946041129</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1690946041129</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

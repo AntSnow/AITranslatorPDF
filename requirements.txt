@@ -1,0 +1,11 @@
+pdfplumber
+simplejson
+requests
+PyYAML
+pillow
+reportlab
+pandas
+loguru
+openai
+PyQt5
+PyMuPDF

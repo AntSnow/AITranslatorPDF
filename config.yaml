@@ -1,0 +1,17 @@
+OpenAIModel:
+  model: "gpt-3.5-turbo"
+  api_key: "请输入你自己的`APIKey`"
+
+GLMModel:
+  model_url: "请输入你自己的模型地址"
+  timeout: 300
+
+QWenModel:
+  model: "qwen-v1"
+  api_key: "请输入你自己的`APIKey`"
+  api_url: "https://dashscope.aliyuncs.com/api/v1/services/aigc/text-generation/generation"
+  timeout: 20
+
+common:
+  book: "tests/test.pdf"
+  file_format: "markdown"
