@@ -3,8 +3,9 @@ import requests
 
 from simplejson import errors as simplejson_errors
 
-from model import Model
-from ai_translator.utils import LOG
+from .model import Model
+
+from ..utils import LOG
 
 
 class OpenAIModel(Model):

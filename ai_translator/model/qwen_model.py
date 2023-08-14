@@ -2,8 +2,6 @@ import requests
 
 from simplejson import errors as simplejson_errors
 
-# from ..utils import LOG
-
 from .model import Model
 
 

@@ -83,7 +83,6 @@ class Content:
 
 
 class TableContent(Content):
-
     df: pd.DataFrame
 
     col_widths: [float]
@@ -121,7 +120,6 @@ class TableContent(Content):
                     table_data.append(row.split("  "))
                 else:
                     table_data.append(row.split(" "))
-
 
             # LOG.debug(table_data)
 

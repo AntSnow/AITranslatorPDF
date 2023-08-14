@@ -1,4 +1,4 @@
-from ai_translator.book import Content, ContentType, TableContent
+from ..book import Content, ContentType, TableContent
 
 
 class Model:
