@@ -39,8 +39,6 @@ async def main():
     app = Application(app_name=app_name, pdf_path=full_pdf_file_path, yaml_config=config)
 
     def app_tap_begin(info):
-        print(f"app_tab_begin, info = {info}")
-
         def translation_bengin(model: Model):
             # 实例化 PDFTranslator 类
             translator = PDFTranslator(model)
@@ -74,6 +72,8 @@ async def main():
     app.begin_callback = app_tap_begin
 
     LOG.add(app.logger_callback, format="{message}")
+
+    print("正在启动中，请耐心等待...")
 
     app.run()
 

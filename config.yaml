@@ -13,5 +13,5 @@ QWenModel:
   timeout: 20
 
 common:
-  book: "tests/new_test.pdf"
+  book: "tests/test_001.pdf"
   file_format: "markdown"

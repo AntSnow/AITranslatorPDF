@@ -352,7 +352,6 @@ class Application:
             if widget.property("tag") == "model-title":
                 widget.setParent(None)
 
-        print(f"_update_config_of_model, model_type = {self.model_type}")
         for title in Common.model_required(self.model_type):
             text_edit = QTextEdit()
             text_edit.setFixedHeight(40)

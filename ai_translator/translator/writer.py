@@ -127,6 +127,8 @@ class Writer:
                         story.append(pdf_table)
 
                     elif content.content_type == ContentType.IMAGE:
+                        if not os.path.exists('images'):
+                            os.makedirs(folder_name)
                         image = content.original
                         img_data = image["stream"].get_data()
                         with tempfile.NamedTemporaryFile(delete=False, suffix=".img") as temp_file:

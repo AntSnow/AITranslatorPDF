@@ -135,7 +135,6 @@ class PDFWidget(QWidget):
             background-color: transparent;
             padding: 0;
             outline: none;
-            box-shadow: none;
             color: #474a4d;
         """)
         self.empty_widget.layout().addWidget(button)
