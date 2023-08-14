@@ -45,7 +45,7 @@ deactivate
 pip install -r requirements.txt
 ```
 
-#### 4.运行GUI（初次启动时，会有一些慢，不要着急哦）
+#### 6.运行GUI（初次启动时，会有一些慢，不要着急哦）
 
 ```
 python ai_translator/app.py
