@@ -50,4 +50,5 @@ pip install -r requirements.txt
 ```
 python ai_translator/app.py
 ```
+![img_001](assets/001.png)
 
