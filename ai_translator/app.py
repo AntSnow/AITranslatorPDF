@@ -18,8 +18,9 @@ from ai_translator.model import OpenAIModel, QWenModel, Model
 from ai_translator.translator import PDFTranslator
 from ai_translator.app import Application
 
+if __name__ == "__main__":
+    print("正在启动中，请耐心等待...")
 
-async def main():
     # 配置文件的地址
     config_path = 'config.yaml'
 
@@ -37,6 +38,7 @@ async def main():
     app_name = "AITranslatorPDF"
 
     app = Application(app_name=app_name, pdf_path=full_pdf_file_path, yaml_config=config)
+
 
     def app_tap_begin(info):
         def translation_bengin(model: Model):
@@ -69,14 +71,9 @@ async def main():
         else:
             LOG.warning(f"不认识的`Model`，{info['model_type']}")
 
+
     app.begin_callback = app_tap_begin
 
     LOG.add(app.logger_callback, format="{message}")
 
-    print("正在启动中，请耐心等待...")
-
     app.run()
-
-
-if __name__ == "__main__":
-    asyncio.run(main())
